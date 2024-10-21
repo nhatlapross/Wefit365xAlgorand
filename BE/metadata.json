@@ -1,0 +1,15 @@
+{
+    "name":"MyHackthon",
+    "description":"Fitness to earn",
+    "image":"WFT",
+    "decimals":0,
+    "unitName":"WFT",
+    "image_integrity":"sha256-QmZimoKYoRwBcWtRYsoRJPRk8aDwZp2j4zUihh2eczpdRp",
+    "image_mimetype":"image/jpg",
+    "properties":
+        {
+            "prize":1000,
+            "startDate":"2024-04-01T00:45[America/Los_Angeles]",
+            "endDate":"2024-04-08T11:15[America/Los_Angeles]"
+        }
+}
